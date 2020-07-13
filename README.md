@@ -1,4 +1,6 @@
-### Hi there 👋
+# ![neverRare banner](never_rare_banner.png)
+
+I like coffee
 
 <!--
 **neverRare/neverRare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
