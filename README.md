@@ -1,4 +1,4 @@
-# ![neverRare banner](never_rare_banner.png)
+# ![neverRare banner](https://github.com/neverRare/neverRare/blob/master/never_rare_banner.png)
 
 I like coffee
 
