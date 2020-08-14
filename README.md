@@ -2,26 +2,6 @@
 
 Hi, nice to meet you and welcome to my profile! (pretty sick banner huh)
 
-## Languages and tools I use
-
-- JavaScript and TypeScript
-- Rust
-- Haskell
-- Visual Studio Code
-- Git
-- Windows 10
-
-## My interests
-
-- Programming language design
-- Graphic design
-- Game development
-- Web development
-
-## Projects I work on
-
-Well, you are on GitHub, feel free to browse some of open-source repositories I'm working on.
-
 ## Where to reach me
 
 TODO
