@@ -4,8 +4,8 @@ Hi, nice to meet you and welcome to my profile! Feel free to explore it :)
 
 ## Where to reach me
 
-- Email: <contactneverrare@gmail.com> (I don't check this very often lol)
-- Twitter: [@neverRareGames](https://twitter.com/neverRareGames) (I don't use this for programming stuffs, but feel free to mention or dm me)
+- Email: <contactneverrare@gmail.com>
+- Twitter: [@neverRareGames](https://twitter.com/neverRareGames)
 
 <!--
 **neverRare/neverRare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
